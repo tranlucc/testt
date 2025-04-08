@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1744011778 source:c:\users\admin\downloads\sdl2game_cleaned\flappycat\game.cpp
+	"game.h"
+	"lib.h"
+	<iostream>
+
+1744011747 c:\users\admin\downloads\sdl2game_cleaned\flappycat\game.h
+	"cat.h"
+	"pipe.h"
+	"land.h"
+	"sound.h"
+	<string>
+	<fstream>
+	<sstream>
+
+1744011747 c:\users\admin\downloads\sdl2game_cleaned\flappycat\cat.h
+	"lib.h"
+	"pipe.h"
+
+1744012026 c:\users\admin\downloads\sdl2game_cleaned\flappycat\lib.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	<vector>
+	<stdio.h>
+
+1744010954 c:\users\admin\downloads\sdl2game_cleaned\flappycat\pipe.h
+	"lib.h"
+	<iostream>
+	<vector>
+
+1744010954 c:\users\admin\downloads\sdl2game_cleaned\flappycat\land.h
+	"lib.h"
+	<vector>
+
+1744013800 c:\users\admin\downloads\sdl2game_cleaned\flappycat\sound.h
+	<SDL_mixer.h>
+	<string>
+	"lib.h"
+
+1744010954 source:c:\users\admin\downloads\sdl2game_cleaned\flappycat\land.cpp
+	"land.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+
+1744010954 source:c:\users\admin\downloads\sdl2game_cleaned\flappycat\lib.cpp
+	"game.h"
+	<iostream>
+
+1744013800 source:c:\users\admin\downloads\sdl2game_cleaned\flappycat\main.cpp
+	"game.h"
+	"lib.h"
+	<time.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1744010954 source:c:\users\admin\downloads\sdl2game_cleaned\flappycat\pipe.cpp
+	"pipe.h"
+	"stdio.h"
+
+1744010954 source:c:\users\admin\downloads\sdl2game_cleaned\flappycat\sound.cpp
+	"sound.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1744011944 source:c:\users\admin\downloads\sdl2game_cleaned\flappycat\cat.cpp
+	"cat.h"
+	<stdio.h>
+	<iostream>
+
+1744011944 source:e:\ltncgame\gameproject\flappycat\cat.cpp
+	"cat.h"
+	<stdio.h>
+	<iostream>
+
+1744011747 e:\ltncgame\gameproject\flappycat\cat.h
+	"lib.h"
+	"pipe.h"
+
+1744041272 e:\ltncgame\gameproject\flappycat\lib.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	<vector>
+	<stdio.h>
+
+1744010954 e:\ltncgame\gameproject\flappycat\pipe.h
+	"lib.h"
+	<iostream>
+	<vector>
+
+1744011778 source:e:\ltncgame\gameproject\flappycat\game.cpp
+	"game.h"
+	"lib.h"
+	<iostream>
+
+1744011747 e:\ltncgame\gameproject\flappycat\game.h
+	"cat.h"
+	"pipe.h"
+	"land.h"
+	"sound.h"
+	<string>
+	<fstream>
+	<sstream>
+
+1744010954 e:\ltncgame\gameproject\flappycat\land.h
+	"lib.h"
+	<vector>
+
+1744013800 e:\ltncgame\gameproject\flappycat\sound.h
+	<SDL_mixer.h>
+	<string>
+	"lib.h"
+
+1744010954 source:e:\ltncgame\gameproject\flappycat\land.cpp
+	"land.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+
+1744010954 source:e:\ltncgame\gameproject\flappycat\lib.cpp
+	"game.h"
+	<iostream>
+
+1744013800 source:e:\ltncgame\gameproject\flappycat\main.cpp
+	"game.h"
+	"lib.h"
+	<time.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1744010954 source:e:\ltncgame\gameproject\flappycat\pipe.cpp
+	"pipe.h"
+	"stdio.h"
+
+1744013900 source:e:\ltncgame\gameproject\flappycat\sound.cpp
+	"sound.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
